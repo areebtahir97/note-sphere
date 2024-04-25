@@ -4,7 +4,7 @@ import EventNoteIcon from '@mui/icons-material/EventNote';
 function Header() {
   return (
     <header>
-      <h1><EventNoteIcon/> NoteSphere</h1>
+      <h1 ><EventNoteIcon/> NoteSphere</h1>
     </header>
   );
 }
